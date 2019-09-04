@@ -10,4 +10,4 @@ This repository consists of three directories:
 
 In order to run our algorithms you need to have a MongoDB instance running. The db name we used is `bob`. The name, however, can be changed in the configurations of each project.
 
-[Download the report](https://github.com/deeps96/web-tables-header-detection/blob/master/Processing%20Web%20Tables.pdf)
+[Download the report](https://github.com/deeps96/web-tables-header-detection/raw/master/Processing%20Web%20Tables.pdf)
